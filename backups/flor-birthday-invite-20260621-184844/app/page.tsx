@@ -18,7 +18,7 @@ const INVITE = {
   subtitle: "SAVE THE DATE",
   dateLabel: "4 de Julio",
   timeLabel: "19 hs",
-  location: "Plaza las lilas, Providencia",
+  location: "Jorge Matte Gormaz 1400 depto 402",
   scriptUrl:
     "https://script.google.com/macros/s/AKfycbyHQVfiPcjP2DEytvarQiUXAH9N4sDbU1qKSq9uGcMeHUHjseLZU_gdmGgZecu0BouE/exec",
   eventDateIso: "2026-07-04T19:00:00-04:00",
