@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Flor Birthday",
-  description: "A premium mini landing page birthday invitation for Flor.",
+  title: "Cumple de Flor 🎂",
+  description: "RSVP: Estás invitado - 4 de Julio, 19hs",
 };
 
 export default function RootLayout({
